@@ -5,25 +5,21 @@ VisualStudioVersion = 16.0.29020.237
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dyabp.Dyshop.Domain", "src\Dyabp.Dyshop.Domain\Dyabp.Dyshop.Domain.csproj", "{554AD327-6DBA-4F8F-96F8-81CE7A0C863F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo", "modules\Volo.BasicTheme\test\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo.csproj", "{af04f329-e3c8-4d02-ab67-689db7a0c544}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo", "modules\Volo.BasicTheme\test\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.Demo.csproj", "{AF04F329-E3C8-4D02-AB67-689DB7A0C544}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo.Tests", "modules\Volo.BasicTheme\test\Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo.Tests\Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo.Tests.csproj", "{2548451f-bf99-41d3-bd1b-b0fdd8ff8fb6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo.Tests", "modules\Volo.BasicTheme\test\Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo.Tests\Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo.Tests.csproj", "{2548451F-BF99-41D3-BD1B-B0FDD8FF8FB6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo", "modules\Volo.BasicTheme\test\Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo\Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo.csproj", "{4915a7b8-1b40-42a3-8f72-a104c85b5cae}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo", "modules\Volo.BasicTheme\test\Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo\Volo.Abp.AspNetCore.Mvc.UI.Bootstrap.Demo.csproj", "{4915A7B8-1B40-42A3-8F72-A104C85B5CAE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic", "modules\Volo.BasicTheme\src\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic\Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic.csproj", "{73217323-c785-4ea5-bf16-b3d872dda4e7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Volo.Abp.AspNetCore.Components.WebAssembly.BasicTheme", "modules\Volo.BasicTheme\src\Volo.Abp.AspNetCore.Components.WebAssembly.BasicTheme\Volo.Abp.AspNetCore.Components.WebAssembly.BasicTheme.csproj", "{C790F494-F944-49CE-B8ED-0425C00859FC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Volo.Abp.AspNetCore.Components.WebAssembly.BasicTheme", "modules\Volo.BasicTheme\src\Volo.Abp.AspNetCore.Components.WebAssembly.BasicTheme\Volo.Abp.AspNetCore.Components.WebAssembly.BasicTheme.csproj", "{c790f494-f944-49ce-b8ed-0425c00859fc}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Volo.Abp.AspNetCore.Components.Web.BasicTheme", "modules\Volo.BasicTheme\src\Volo.Abp.AspNetCore.Components.Web.BasicTheme\Volo.Abp.AspNetCore.Components.Web.BasicTheme.csproj", "{1DE6B7C6-8B6C-4D00-8C47-C55AE52A8FFF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Volo.Abp.AspNetCore.Components.Web.BasicTheme", "modules\Volo.BasicTheme\src\Volo.Abp.AspNetCore.Components.Web.BasicTheme\Volo.Abp.AspNetCore.Components.Web.BasicTheme.csproj", "{1de6b7c6-8b6c-4d00-8c47-c55ae52a8fff}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Volo.BasicTheme.Tests", "Volo.BasicTheme.Tests", "{E23C1133-426F-48F6-98D9-BD5AB475362A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Volo.Abp.AspNetCore.Components.Server.BasicTheme", "modules\Volo.BasicTheme\src\Volo.Abp.AspNetCore.Components.Server.BasicTheme\Volo.Abp.AspNetCore.Components.Server.BasicTheme.csproj", "{c3f2b90e-9119-451b-aca0-3d29f1065ce2}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Volo.BasicTheme", "Volo.BasicTheme", "{75FA8D15-3B9F-4A0E-B73E-25C5B06F0A0A}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Volo.BasicTheme.Tests", "Volo.BasicTheme.Tests", "{e23c1133-426f-48f6-98d9-bd5ab475362a}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Volo.BasicTheme", "Volo.BasicTheme", "{75fa8d15-3b9f-4a0e-b73e-25c5b06f0a0a}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "modules", "modules", "{8c2e8e66-eda4-4f50-b5b1-22fe4785c386}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "modules", "modules", "{8C2E8E66-EDA4-4F50-B5B1-22FE4785C386}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dyabp.Dyshop.Application", "src\Dyabp.Dyshop.Application\Dyabp.Dyshop.Application.csproj", "{1A94A50E-06DC-43C1-80B5-B662820EC3EB}"
 EndProject
@@ -75,10 +71,6 @@ Global
 		{4915a7b8-1b40-42a3-8f72-a104c85b5cae}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4915a7b8-1b40-42a3-8f72-a104c85b5cae}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4915a7b8-1b40-42a3-8f72-a104c85b5cae}.Release|Any CPU.Build.0 = Release|Any CPU
-		{73217323-c785-4ea5-bf16-b3d872dda4e7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{73217323-c785-4ea5-bf16-b3d872dda4e7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{73217323-c785-4ea5-bf16-b3d872dda4e7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{73217323-c785-4ea5-bf16-b3d872dda4e7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{c790f494-f944-49ce-b8ed-0425c00859fc}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{c790f494-f944-49ce-b8ed-0425c00859fc}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{c790f494-f944-49ce-b8ed-0425c00859fc}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -87,10 +79,6 @@ Global
 		{1de6b7c6-8b6c-4d00-8c47-c55ae52a8fff}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1de6b7c6-8b6c-4d00-8c47-c55ae52a8fff}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1de6b7c6-8b6c-4d00-8c47-c55ae52a8fff}.Release|Any CPU.Build.0 = Release|Any CPU
-		{c3f2b90e-9119-451b-aca0-3d29f1065ce2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{c3f2b90e-9119-451b-aca0-3d29f1065ce2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{c3f2b90e-9119-451b-aca0-3d29f1065ce2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{c3f2b90e-9119-451b-aca0-3d29f1065ce2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{554AD327-6DBA-4F8F-96F8-81CE7A0C863F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{554AD327-6DBA-4F8F-96F8-81CE7A0C863F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{554AD327-6DBA-4F8F-96F8-81CE7A0C863F}.Release|Any CPU.ActiveCfg = Release|Any CPU

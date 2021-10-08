@@ -1,6 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk.Razor">
 
-    
+    <Import Project="..\..\..\..\configureawait.props" />
+    <Import Project="..\..\..\..\common.props" />
     
 
     <PropertyGroup><LangVersion>latest</LangVersion>
